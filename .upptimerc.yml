@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Parse
-    url: https://parse-server-vmxh5u2kka-df.a.run.app/parse/users
+    url: https://parse-server-vmxh5u2kka-df.a.run.app/parse/config
     headers:
       - "X-Parse-Application-Id: $PARSE_APPLICATION_ID"
       - "Content-Type: application/json"
