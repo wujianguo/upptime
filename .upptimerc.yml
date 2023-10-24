@@ -4,7 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Parse
-    url: https://parse-server-vmxh5u2kka-df.a.run.app/parse/health
+    url: https://parse-server-vmxh5u2kka-df.a.run.app/parse/users
+    headers:
+      - "X-Parse-Application-Id: $PARSE_APPLICATION_ID"
+      - "Content-Type: application/json"
+
 
 assignees: # Users to assign downtime issues (optional)
   - wujianguo
