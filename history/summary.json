@@ -1,7 +1,7 @@
 [
   {
     "name": "Parse",
-    "url": "https://parse-server-vmxh5u2kka-df.a.run.app/parse/users",
+    "url": "https://parse-server-vmxh5u2kka-df.a.run.app/parse/config",
     "icon": "https://icons.duckduckgo.com/ip3/parse-server-vmxh5u2kka-df.a.run.app.ico",
     "slug": "parse",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 256,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 570,
+    "timeDay": 570,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   }
 ]
