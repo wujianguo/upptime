@@ -1,7 +1,7 @@
-url: https://parse-server-vmxh5u2kka-df.a.run.app/parse/config
+url: https://parse-iceg7pezqq-df.a.run.app/parse/functions/health
 status: up
 code: 200
-responseTime: 14852
-lastUpdated: 2023-10-25T01:57:50.628Z
+responseTime: 245
+lastUpdated: 2023-10-25T07:03:02.571Z
 startTime: 2023-10-24T09:11:27.037Z
 generator: Upptime <https://github.com/upptime/upptime>
