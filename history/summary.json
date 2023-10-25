@@ -1,20 +1,20 @@
 [
   {
     "name": "Parse",
-    "url": "https://parse-server-vmxh5u2kka-df.a.run.app/parse/config",
-    "icon": "https://icons.duckduckgo.com/ip3/parse-server-vmxh5u2kka-df.a.run.app.ico",
+    "url": "https://parse-iceg7pezqq-df.a.run.app/parse/functions/health",
+    "icon": "https://icons.duckduckgo.com/ip3/parse-iceg7pezqq-df.a.run.app.ico",
     "slug": "parse",
     "status": "up",
-    "uptime": "97.71%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "97.71%",
-    "time": 2853,
-    "timeDay": 2853,
-    "timeWeek": 2853,
-    "timeMonth": 2853,
-    "timeYear": 2853,
+    "uptime": "98.25%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.25%",
+    "time": 2480,
+    "timeDay": 2480,
+    "timeWeek": 2480,
+    "timeMonth": 2480,
+    "timeYear": 2480,
     "dailyMinutesDown": {
       "2023-10-25": 23
     }
