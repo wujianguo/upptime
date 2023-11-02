@@ -11,6 +11,13 @@ sites:
       - "Content-Type: application/json"
     body: '{ "healthId": "N2sMm1Stv3" }'
 
+  - name: Supabase
+    url: https://ovgzsknjpyioppdpfnrt.supabase.co/rest/v1/Health
+    headers:
+      - "apikey: $SUPABASE_KEY"
+      - "Authorization: Bearer $SUPABASE_KEY"
+      - "Content-Type: application/json"    
+
 assignees: # Users to assign downtime issues (optional)
   - wujianguo
 
