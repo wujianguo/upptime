@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Parse
-    url: https://parse-iceg7pezqq-df.a.run.app/parse/functions/health
+    url: $PARSE_SERVER_URL/functions/health
     method: POST
     headers:
       - "X-Parse-Application-Id: $PARSE_APPLICATION_ID"
@@ -12,7 +12,7 @@ sites:
     body: '{ "healthId": "N2sMm1Stv3" }'
 
   - name: Supabase
-    url: https://ovgzsknjpyioppdpfnrt.supabase.co/rest/v1/Health
+    url: $SUPABASE_URL/rest/v1/Health
     headers:
       - "apikey: $SUPABASE_KEY"
       - "Authorization: Bearer $SUPABASE_KEY"
