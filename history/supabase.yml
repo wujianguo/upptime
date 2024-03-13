@@ -1,7 +1,7 @@
 url: $SUPABASE_URL/rest/v1/Health
 status: up
 code: 200
-responseTime: 232
-lastUpdated: 2024-03-12T23:05:06.660Z
+responseTime: 419
+lastUpdated: 2024-03-13T23:04:44.272Z
 startTime: 2023-11-02T10:44:39.978Z
 generator: Upptime <https://github.com/upptime/upptime>
