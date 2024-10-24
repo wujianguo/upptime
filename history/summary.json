@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3745,
-    "timeDay": 631,
-    "timeWeek": 2757,
-    "timeMonth": 5380,
-    "timeYear": 3745,
-    "dailyMinutesDown": {
-      "2023-10-25": 23
-    }
+    "time": 3736,
+    "timeDay": 507,
+    "timeWeek": 781,
+    "timeMonth": 5114,
+    "timeYear": 3736,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Supabase",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
-    "timeDay": 594,
-    "timeWeek": 596,
-    "timeMonth": 645,
+    "timeDay": 358,
+    "timeWeek": 508,
+    "timeMonth": 628,
     "timeYear": 405,
     "dailyMinutesDown": {}
   }
