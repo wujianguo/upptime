@@ -1,7 +1,7 @@
 url: $PARSE_SERVER_URL/functions/health
 status: up
 code: 200
-responseTime: 608
-lastUpdated: 2024-12-09T23:05:16.003Z
+responseTime: 7767
+lastUpdated: 2024-12-10T23:05:17.244Z
 startTime: 2023-10-24T09:11:27.037Z
 generator: Upptime <https://github.com/upptime/upptime>
