@@ -34,5 +34,23 @@
     "timeMonth": 1072,
     "timeYear": 1107,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "LobeHub",
+    "url": "https://chat.libms.top",
+    "icon": "https://icons.duckduckgo.com/ip3/chat.libms.top.ico",
+    "slug": "lobe-hub",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
