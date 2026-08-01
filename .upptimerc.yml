@@ -21,6 +21,9 @@ sites:
   - name: LobeHub
     url: https://chat.libms.top
 
+  - name: 9Router
+    url: https://router.apphub.work
+
 assignees: # Users to assign downtime issues (optional)
   - wujianguo
 
