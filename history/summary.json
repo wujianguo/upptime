@@ -4,18 +4,20 @@
     "url": "$PARSE_SERVER_URL/functions/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "parse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6468,
-    "timeDay": 30653,
-    "timeWeek": 26312,
-    "timeMonth": 27179,
-    "timeYear": 8503,
-    "dailyMinutesDown": {}
+    "time": 6467,
+    "timeDay": 15435,
+    "timeWeek": 23050,
+    "timeMonth": 26430,
+    "timeYear": 8480,
+    "dailyMinutesDown": {
+      "2026-08-14": 0
+    }
   },
   {
     "name": "Supabase",
