@@ -3,14 +3,6 @@ owner: wujianguo # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Parse
-    url: $PARSE_SERVER_URL/functions/health
-    method: POST
-    headers:
-      - "X-Parse-Application-Id: $PARSE_APPLICATION_ID"
-      - "Content-Type: application/json"
-    body: '{ "healthId": "N2sMm1Stv3" }'
-
   - name: Supabase
     url: $SUPABASE_URL/rest/v1/Health
     headers:
