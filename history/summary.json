@@ -22,21 +22,21 @@
     "url": "https://chat.libms.top",
     "icon": "https://icons.duckduckgo.com/ip3/chat.libms.top.ico",
     "slug": "lobe-hub",
-    "status": "down",
-    "uptime": "97.29%",
-    "uptimeDay": "88.55%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "96.00%",
-    "uptimeYear": "97.29%",
-    "time": 2063,
-    "timeDay": 0,
-    "timeWeek": 2097,
-    "timeMonth": 2077,
-    "timeYear": 2063,
+    "status": "up",
+    "uptime": "96.46%",
+    "uptimeDay": "50.12%",
+    "uptimeWeek": "92.87%",
+    "uptimeMonth": "94.74%",
+    "uptimeYear": "96.46%",
+    "time": 2056,
+    "timeDay": 1691,
+    "timeWeek": 2039,
+    "timeMonth": 2065,
+    "timeYear": 2056,
     "dailyMinutesDown": {
       "2026-08-28": 407,
       "2026-08-27": 1180,
-      "2026-09-15": 165
+      "2026-09-15": 718
     }
   },
   {
