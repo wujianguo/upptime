@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1002,
-    "timeDay": 982,
-    "timeWeek": 857,
-    "timeMonth": 1048,
+    "timeDay": 901,
+    "timeWeek": 879,
+    "timeMonth": 1038,
     "timeYear": 1122,
     "dailyMinutesDown": {}
   },
@@ -22,20 +22,21 @@
     "url": "https://chat.libms.top",
     "icon": "https://icons.duckduckgo.com/ip3/chat.libms.top.ico",
     "slug": "lobe-hub",
-    "status": "up",
-    "uptime": "97.49%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.54%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "97.49%",
+    "uptimeYear": "97.54%",
     "time": 2063,
-    "timeDay": 1827,
-    "timeWeek": 2116,
-    "timeMonth": 2065,
+    "timeDay": 0,
+    "timeWeek": 2097,
+    "timeMonth": 2077,
     "timeYear": 2063,
     "dailyMinutesDown": {
       "2026-08-28": 407,
-      "2026-08-27": 1180
+      "2026-08-27": 1180,
+      "2026-09-15": 0
     }
   },
   {
@@ -49,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1988,
-    "timeDay": 1492,
-    "timeWeek": 2153,
-    "timeMonth": 1967,
-    "timeYear": 1988,
+    "time": 1982,
+    "timeDay": 1729,
+    "timeWeek": 2058,
+    "timeMonth": 1980,
+    "timeYear": 1982,
     "dailyMinutesDown": {}
   }
 ]
